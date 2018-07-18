@@ -1,2 +1,2 @@
 # twodee
-A graphical / game base framework with MVC architecture written in TypeScript
+A graphical / game base framework with MVC-like architecture written in TypeScript
